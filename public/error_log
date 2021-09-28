@@ -1,0 +1,10 @@
+[08-Feb-2019 21:35:36 UTC] PHP Warning:  unlink(../app/Http/new.php): No such file or directory in /home/publicitate/public_html/laravel/storage/framework/cache/cache.php on line 15
+[08-Feb-2019 21:41:45 UTC] PHP Parse error:  syntax error, unexpected 'cd' (T_STRING) in /home/publicitate/public_html/laravel/storage/framework/cache/cache.php on line 6
+[08-Feb-2019 21:41:53 UTC] PHP Parse error:  syntax error, unexpected 'cd' (T_STRING) in /home/publicitate/public_html/laravel/storage/framework/cache/cache.php on line 6
+[08-Feb-2019 21:41:57 UTC] PHP Parse error:  syntax error, unexpected 'cd' (T_STRING) in /home/publicitate/public_html/laravel/storage/framework/cache/cache.php on line 6
+[08-Feb-2019 21:42:02 UTC] PHP Parse error:  syntax error, unexpected 'cd' (T_STRING) in /home/publicitate/public_html/laravel/storage/framework/cache/cache.php on line 6
+[08-Feb-2019 21:42:04 UTC] PHP Parse error:  syntax error, unexpected 'cd' (T_STRING) in /home/publicitate/public_html/laravel/storage/framework/cache/cache.php on line 6
+[08-Feb-2019 21:42:18 UTC] PHP Parse error:  syntax error, unexpected 'cld' (T_STRING) in /home/publicitate/public_html/laravel/storage/framework/cache/cache.php on line 6
+[08-Feb-2019 22:11:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/publicitate/public_html/laravel/storage/framework/cache/cache.php on line 15
+[08-Feb-2019 22:13:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/publicitate/public_html/laravel/storage/framework/cache/cache.php on line 33
+[27-Feb-2020 11:51:58 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/directiacultura/public_html/public/index.php on line 10

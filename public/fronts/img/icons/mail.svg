@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="15px" viewBox="0 0 18 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="z" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Homme-Page" transform="translate(-150.000000, -3302.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Group-3-Copy" transform="translate(-5.000000, 2823.000000)">
+                <g id="Group-6" transform="translate(156.000000, 230.000000)">
+                    <g id="Group-4">
+                        <g id="Group-7">
+                            <g id="Group-9" transform="translate(0.000000, 202.545455)">
+                                <g id="mail" transform="translate(0.000000, 48.340909)">
+                                    <path d="M1.5106383,0 L13.5957447,0 C14.4265957,0 15.106383,0.680113636 15.106383,1.51136364 L15.106383,10.5795455 C15.106383,11.4107955 14.4265957,12.0909091 13.5957447,12.0909091 L1.5106383,12.0909091 C0.679787234,12.0909091 0,11.4107955 0,10.5795455 L0,1.51136364 C0,0.680113636 0.679787234,0 1.5106383,0 Z" id="Path"></path>
+                                    <polyline id="Path" points="15.106383 1.51136364 7.55319149 6.80113636 0 1.51136364"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

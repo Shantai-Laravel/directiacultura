@@ -1,0 +1,8 @@
+@mixin text($fontW, $fontSize) {
+  font-family: Roboto;
+  font-size: $fontSize;
+  color: #000000;
+  letter-spacing: 0.5;
+  line-height: 28px;
+  font-weight: $fontW;
+}
