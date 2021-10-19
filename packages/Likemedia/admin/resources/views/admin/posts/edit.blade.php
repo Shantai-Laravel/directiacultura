@@ -90,10 +90,10 @@
                                             // filebrowserImageBrowseUrl: "{{route('infos.upload',['_token' => csrf_token() ])}}",
                                             // filebrowserUploadUrl: "{{route('infos.upload',['_token' => csrf_token() ])}}",
                                             // filebrowserImageUploadUrl: "{{route('infos.upload',['_token' => csrf_token() ])}}"
-                                            filebrowserBrowseUrl: "https://directiacultura.md/back/settings/ckeditor/upload/images?_token{{ csrf_token() }}",
-                                            filebrowserImageBrowseUrl: "https://directiacultura.md/back/settings/ckeditor/upload/images?_token{{ csrf_token() }}",
-                                            filebrowserUploadUrl: "https://directiacultura.md/back/settings/ckeditor/upload/images?_token{{ csrf_token() }}",
-                                            filebrowserImageUploadUrl: "https://directiacultura.md/back/settings/ckeditor/upload/images?_token{{ csrf_token() }}"
+                                            filebrowserBrowseUrl: "https://directiacultura.md/back/settings/ckeditor/upload/images?_token={{ csrf_token() }}",
+                                            filebrowserImageBrowseUrl: "https://directiacultura.md/back/settings/ckeditor/upload/images?_token={{ csrf_token() }}",
+                                            filebrowserUploadUrl: "https://directiacultura.md/back/settings/ckeditor/upload/images?_token={{ csrf_token() }}",
+                                            filebrowserImageUploadUrl: "https://directiacultura.md/back/settings/ckeditor/upload/images?_token={{ csrf_token() }}"
                                         });
                                     </script>
                                 </li>
